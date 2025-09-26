@@ -6,6 +6,9 @@ Purpose: Placeholder code for frontend, backend, and test simulation.
 
 # ---------------- Backend Simulation ----------------
 
+# change in checkout_coupan CRM-8
+
+
 class Product:
     def __init__(self, id, name, price):
         self.id = id
