@@ -5,7 +5,7 @@ Purpose: Placeholder code for frontend, backend, and test simulation.
 """
 
 # ---------------- Backend Simulation ----------------
-## pr CRM-13 change
+## pr CRM-25 change
 class Product:
     def __init__(self, id, name, price):
         self.id = id
