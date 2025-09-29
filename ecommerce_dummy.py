@@ -6,6 +6,8 @@ Purpose: Placeholder code for frontend, backend, and test simulation.
 
 # ---------------- Backend Simulation ----------------
 
+## PR 2 change
+
 class Product:
     def __init__(self, id, name, price):
         self.id = id
